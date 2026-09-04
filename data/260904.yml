@@ -7,7 +7,7 @@ about:
   head: 5f94fb0
   archived: false
   latestVersion: v5.5.1
-  collectedAt: 2026-09-04T19:40:46Z
+  collectedAt: 2026-09-04T20:53:44Z
 timeline:
   created: 2013-12-09
   lastCommit: 2026-09-03
@@ -84,6 +84,64 @@ total:
   openIssue: 61
   commit: 6029
 ---
+path: /home/runner/.x-repo/github.com/docker/compose
+collectedAt: 2026-09-04T20:53:46Z
+loc:
+  Go:
+    code: 46150
+    comments: 9912
+    blanks: 6987
+    files: 332
+  Yaml:
+    code: 7164
+    comments: 85
+    blanks: 199
+    files: 301
+  Dockerfile:
+    code: 339
+    comments: 208
+    blanks: 152
+    files: 41
+  Hcl:
+    code: 126
+    comments: 19
+    blanks: 23
+    files: 1
+  Makefile:
+    code: 111
+    comments: 22
+    blanks: 39
+    files: 1
+  Html:
+    code: 40
+    comments: 0
+    blanks: 0
+    files: 4
+  Json:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 2
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1899
+    blanks: 717
+    files: 54
+  Text:
+    code: 0
+    comments: 13
+    blanks: 3
+    files: 11
+total:
+  code: 54135
+  comments: 12164
+  blanks: 8134
+  files: 747
 ---
 date: "2026-09-03T15:28:35Z"
 repo:
