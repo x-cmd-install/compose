@@ -1,0 +1,60 @@
+about:
+  description: Define and run multi-container applications with Docker
+  license: Apache-2.0
+  homepage: https://docs.docker.com/compose/
+  head: 5f94fb0
+  archived: false
+  latestVersion: v5.5.1
+  collectedAt: 2026-09-04T04:43:07Z
+timeline:
+  created: 2013-12-09
+  lastCommit: 2026-09-03
+  lastRelease: 2026-09-03
+popularity:
+  star: 38113
+  watcher: 717
+  fork: 5798
+  release: 285
+  contributor: 289
+  pullRequest: 1532
+  issue: 8396
+language:
+  Go: 1927245
+  Dockerfile: 21144
+  Makefile: 6585
+  HCL: 3478
+  HTML: 658
+totalLine: 1959110
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 2
+    mergedPR: 82
+    openPR: 30
+    closedIssue: 19
+    openIssue: 5
+    commit: 127
+  last90d:
+    since: 2026-06-06
+    release: 6
+    mergedPR: 183
+    openPR: 40
+    closedIssue: 47
+    openIssue: 11
+    commit: 262
+  last180d:
+    since: 2026-03-08
+    release: 10
+    mergedPR: 255
+    openPR: 42
+    closedIssue: 88
+    openIssue: 30
+    commit: 377
+  last360d:
+    since: 2025-09-09
+    release: 22
+    mergedPR: 434
+    openPR: 44
+    closedIssue: 236
+    openIssue: 36
+    commit: 614
