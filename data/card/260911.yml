@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.5.1"
   latestRelease: "v5.5.1"
   latestPrerelease: "v5.0.0-rc.2"
-  collectedAt: 2026-09-11T00:02:19Z
+  collectedAt: 2026-09-11T06:13:58Z
 timeline:
   created: 2013-12-09
   lastCommit: 2026-09-10
@@ -87,7 +87,7 @@ total:
   commit: 6046
 ---
 path: /home/runner/.x-repo/github.com/docker/compose
-collectedAt: 2026-09-11T00:02:25Z
+collectedAt: 2026-09-11T06:14:02Z
 loc:
   Go:
     code: 46738
