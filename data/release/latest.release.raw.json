@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 4616,
       "digest": "sha256:fec854bf0723e40aaeaced8f90c56796a4b9c836568c0b5a2c65b0387650dc65",
-      "download_count": 1627,
+      "download_count": 1768,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 30532210,
       "digest": "sha256:998735c9b6fe68a4f05895e6ea73d71ad06f9fc7046383ad89e47346781b6af5",
-      "download_count": 5439,
+      "download_count": 5665,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-aarch64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 59908,
       "digest": "sha256:f0f902382cd708c5fa1530e6427be5b78a822b9d117ee0c676bf322f2f0ea792",
-      "download_count": 319,
+      "download_count": 329,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-aarch64.provenance.json"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:869fa3f11d8650c06835ebbac92b9a61c3da417a64d1758553eba03d2d301a0c",
-      "download_count": 491,
+      "download_count": 514,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-aarch64.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 90303,
       "digest": "sha256:96aa94e5c255f163ba6925f9a4c8153e8e52e654d9b1573fd49e7b17e12dbe47",
-      "download_count": 237,
+      "download_count": 259,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-aarch64.sigstore.json"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 32686480,
       "digest": "sha256:a264d61e824bf08a78867e59cdf32eb09f0aee9ecdf9f6ebfa43f76dc52880f1",
-      "download_count": 1328,
+      "download_count": 1422,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-x86_64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 59908,
       "digest": "sha256:fa08312eb90dd7b6fd3cdb5c581de652a732daf98865d9a8bf2885636d5078c5",
-      "download_count": 53,
+      "download_count": 56,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-x86_64.provenance.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:4ab4538d30028de9906336f2f3bb8ed4f737ccf21ea14024cec0c9e00643d138",
-      "download_count": 188,
+      "download_count": 198,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-x86_64.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 90211,
       "digest": "sha256:066025a24f8ec11d680cc3238357c8e25aedb61c838a49baf7a2ace26ac4e32a",
-      "download_count": 25,
+      "download_count": 37,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-darwin-x86_64.sigstore.json"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 30241338,
       "digest": "sha256:732e3a84c1a0f67256ce80bc2598a24546b10ca05f9faa97efceb1171ece2ef7",
-      "download_count": 76408,
+      "download_count": 80004,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-aarch64"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 59903,
       "digest": "sha256:e4fca162b783596f99bc21202f17f8b63941c0b00c74f0747ff78effb7c33e75",
-      "download_count": 158,
+      "download_count": 164,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-aarch64.provenance.json"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:e3708b0f4e92576a4bddb33abf9cb6188e3fd94d0b816e6ee0161f5d30833714",
-      "download_count": 6865,
+      "download_count": 7090,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-aarch64.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 90147,
       "digest": "sha256:96e85263d5f9429d01c3222343ba9ad93b17b86c7fc0ad77800f0f3b6af6bc9f",
-      "download_count": 96,
+      "download_count": 113,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-aarch64.sigstore.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 30286291,
       "digest": "sha256:421ff5910b09cb30842bff39e920091f3cec8da662e449d3935eb2f9593f6d12",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-armv6"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:70140c77afb7e07e32f10a03fe6513a3bdfa0aeb21c59d3526d0cfd034da82a0",
-      "download_count": 87,
+      "download_count": 93,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-armv6.sha256"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 30285139,
       "digest": "sha256:32e8e0182e7a94570ef60542e25346d465eaf5e2ca766d54bf9d64573ddaa52e",
-      "download_count": 92,
+      "download_count": 94,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-armv7"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:d76f4ff302914a1fc64ed643fc05551d030e159df9395b5a67f48119d7681d37",
-      "download_count": 105,
+      "download_count": 111,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-armv7.sha256"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 31854708,
       "digest": "sha256:1f49f2a3bbcf68260378486877be23e53ac6ca5dc4c03087b675e63de6dfedfc",
-      "download_count": 174,
+      "download_count": 181,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:52Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-ppc64le"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:b0c5e3a7b1e7da4d7b841d7959f2b5b3058d1b15618bc2c8c24e2f940660179d",
-      "download_count": 85,
+      "download_count": 91,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-ppc64le.sha256"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 29523956,
       "digest": "sha256:d7a2af7fa8d9396cc62bfedb73496f3008cc2f2a0d3c20b67e956f89d9477366",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-riscv64"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:5fba9db2558b13720ec927dea915576a4ffb957197302ce8dc152e347482b62d",
-      "download_count": 87,
+      "download_count": 93,
       "created_at": "2026-09-03T15:35:49Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-riscv64.sha256"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 33109596,
       "digest": "sha256:58c1395585a2a93ebf0b471c39cab597f46f4ce68884804a6d724431c85e82b9",
-      "download_count": 198,
+      "download_count": 204,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-s390x"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:eada65b37f1a981d42c25159c5dbb17787f8bafaead344a5fba4acded137bc6b",
-      "download_count": 95,
+      "download_count": 101,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-s390x.sha256"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 32333754,
       "digest": "sha256:db1889184726840f75c4f9c001048430d4f25b3be3cb084d3ddd762bc0aed576",
-      "download_count": 267188,
+      "download_count": 279526,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:51Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-x86_64"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 59903,
       "digest": "sha256:d9c8c3cbea483f16919ae0ac9a1164e28794d1320fc50e77937371d06e8d28b2",
-      "download_count": 2008,
+      "download_count": 2131,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-x86_64.provenance.json"
@@ -1615,7 +1615,7 @@
       "state": "uploaded",
       "size": 245093,
       "digest": "sha256:8c32a523e4bbf9ba5b700a070070cbf9159c76dbec5b97565cf81074f40160a7",
-      "download_count": 405,
+      "download_count": 408,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-x86_64.sbom.json"
@@ -1651,7 +1651,7 @@
       "state": "uploaded",
       "size": 94,
       "digest": "sha256:2168f5abb68ced9f1092c988579bbed6cdee0032742e1e5a23f8d85e46bd644b",
-      "download_count": 32704,
+      "download_count": 33662,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-x86_64.sha256"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 90235,
       "digest": "sha256:055fc239037c3284ed4a3befffa5dc6e6bcc2b4b098aa4a2ca0d34f0478a9d8e",
-      "download_count": 1221,
+      "download_count": 1326,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-linux-x86_64.sigstore.json"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 30555136,
       "digest": "sha256:4bbb5d1ecc75bde1a9ca4afac43f5907c0d3bd0f88c7f00bf481ee7c8c1737be",
-      "download_count": 308,
+      "download_count": 314,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:52Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-aarch64.exe"
@@ -1759,7 +1759,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:e591adf1c11b00d0845a561cbc3d7c58511d4313c5e6696cf2b3d958319f270a",
-      "download_count": 109,
+      "download_count": 115,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-aarch64.exe.sha256"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 33029120,
       "digest": "sha256:a3c0c73033eaede90210345d0cc2233edf4fab8fe0282a91dad8fd8436809d2f",
-      "download_count": 10023,
+      "download_count": 10365,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:52Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-x86_64.exe"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:36afe36715ea447f82c307a65c87ab48f510ddb3c7e64791f2367da839b06bb4",
-      "download_count": 529,
+      "download_count": 558,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-x86_64.exe.sha256"
@@ -1975,7 +1975,7 @@
       "state": "uploaded",
       "size": 59928,
       "digest": "sha256:7a36d94a7fbdd7539e058d6818462ccf6fef2c9f8db00cf48cb1093a710ab2d8",
-      "download_count": 64,
+      "download_count": 65,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-x86_64.provenance.json"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 89983,
       "digest": "sha256:6a8209cd5665054be71000f147becdd4f104f84b273fd7629106877606cd5884",
-      "download_count": 189,
+      "download_count": 191,
       "created_at": "2026-09-03T15:35:48Z",
       "updated_at": "2026-09-03T15:35:49Z",
       "browser_download_url": "https://github.com/docker/compose/releases/download/v5.5.1/docker-compose-windows-x86_64.sigstore.json"
