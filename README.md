@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 38,137 · **Forks**: 5,810 · **Open issues**: 8,400 · **Contributors**: 290
+- **Stars**: 38,141 · **Forks**: 5,810 · **Open issues**: 8,400 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 4026 · **Open PRs**: 52 · **Closed issues**: 8341 · **Open issues**: 59 · **Commits**: 6048
+- **Releases**: 285 · **Merged PRs**: 4026 · **Open PRs**: 53 · **Closed issues**: 8341 · **Open issues**: 59 · **Commits**: 6048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 2 | 79 | 37 | 15 | 6 | 126 |
-| last60d | 2026-07-14 | 3 | 132 | 45 | 30 | 8 | 209 |
-| 90d | 2026-06-14 | 6 | 183 | 50 | 47 | 10 | 270 |
-| last180d | 2026-03-16 | 10 | 261 | 51 | 86 | 30 | 393 |
-| 360d | 2025-09-17 | 21 | 447 | 52 | 233 | 35 | 632 |
-| last720d | 2024-09-22 | 50 | 901 | 52 | 700 | 46 | 1193 |
+| 30d | 2026-08-14 | 2 | 76 | 37 | 15 | 6 | 126 |
+| last60d | 2026-07-15 | 3 | 130 | 46 | 30 | 8 | 209 |
+| 90d | 2026-06-15 | 6 | 181 | 51 | 47 | 10 | 270 |
+| last180d | 2026-03-17 | 10 | 261 | 52 | 86 | 30 | 393 |
+| 360d | 2025-09-18 | 21 | 445 | 53 | 233 | 35 | 632 |
+| last720d | 2024-09-23 | 50 | 899 | 53 | 698 | 46 | 1193 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:57:55Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:20:15Z._
