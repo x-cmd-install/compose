@@ -4,7 +4,7 @@
 
 Define and run multi-container applications with Docker
 
-![compose](https://repo.x-cmd.io/compose.svg)
+[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/compose.svg)](https://x-cmd.com/install/compose)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 38,178 · **Forks**: 5,818 · **Open issues**: 8,405 · **Contributors**: 289
+- **Stars**: 38,195 · **Forks**: 5,825 · **Open issues**: 8,405 · **Contributors**: 289
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 4043 · **Open PRs**: 48 · **Closed issues**: 8346 · **Open issues**: 59 · **Commits**: 6089
+- **Releases**: 285 · **Merged PRs**: 4043 · **Open PRs**: 50 · **Closed issues**: 8348 · **Open issues**: 57 · **Commits**: 6089
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 62 | 29 | 13 | 8 | 85 |
-| last60d | 2026-07-20 | 3 | 142 | 40 | 29 | 12 | 235 |
-| 90d | 2026-06-20 | 6 | 193 | 44 | 46 | 14 | 297 |
-| last180d | 2026-03-22 | 9 | 275 | 47 | 84 | 31 | 423 |
-| 360d | 2025-09-23 | 20 | 458 | 48 | 235 | 36 | 661 |
-| last720d | 2024-09-28 | 50 | 910 | 48 | 696 | 46 | 1227 |
+| 30d | 2026-08-21 | 1 | 55 | 31 | 9 | 6 | 85 |
+| last60d | 2026-07-22 | 3 | 136 | 40 | 31 | 10 | 235 |
+| 90d | 2026-06-22 | 6 | 192 | 46 | 45 | 12 | 297 |
+| last180d | 2026-03-24 | 9 | 269 | 49 | 85 | 28 | 423 |
+| 360d | 2025-09-25 | 20 | 455 | 50 | 233 | 34 | 661 |
+| last720d | 2024-09-30 | 50 | 910 | 50 | 695 | 44 | 1227 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:28:10Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:28:52Z._

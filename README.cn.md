@@ -4,7 +4,7 @@
 
 Define and run multi-container applications with Docker
 
-![compose](https://repo.x-cmd.io/compose.svg?lang=zh)
+[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/compose.svg?lang=zh)](https://x-cmd.com/install/compose)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install compose
 
 ## 流行度
 
-- **Star**: 38,178 · **Fork**: 5,818 · **开放 issue**: 8,405 · **贡献者**: 289
+- **Star**: 38,195 · **Fork**: 5,825 · **开放 issue**: 8,405 · **贡献者**: 289
 
 ## 累计统计
 
-- **发布数**: 285 · **已合并 PR**: 4043 · **开放 PR**: 48 · **已关闭 issue**: 8346 · **开放 issue**: 59 · **提交数**: 6089
+- **发布数**: 285 · **已合并 PR**: 4043 · **开放 PR**: 50 · **已关闭 issue**: 8348 · **开放 issue**: 57 · **提交数**: 6089
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 62 | 29 | 13 | 8 | 85 |
-| last60d | 2026-07-20 | 3 | 142 | 40 | 29 | 12 | 235 |
-| 90d | 2026-06-20 | 6 | 193 | 44 | 46 | 14 | 297 |
-| last180d | 2026-03-22 | 9 | 275 | 47 | 84 | 31 | 423 |
-| 360d | 2025-09-23 | 20 | 458 | 48 | 235 | 36 | 661 |
-| last720d | 2024-09-28 | 50 | 910 | 48 | 696 | 46 | 1227 |
+| 30d | 2026-08-21 | 1 | 55 | 31 | 9 | 6 | 85 |
+| last60d | 2026-07-22 | 3 | 136 | 40 | 31 | 10 | 235 |
+| 90d | 2026-06-22 | 6 | 192 | 46 | 45 | 12 | 297 |
+| last180d | 2026-03-24 | 9 | 269 | 49 | 85 | 28 | 423 |
+| 360d | 2025-09-25 | 20 | 455 | 50 | 233 | 34 | 661 |
+| last720d | 2024-09-30 | 50 | 910 | 50 | 695 | 44 | 1227 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:28:11Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:28:53Z._
