@@ -4,7 +4,7 @@
 
 Define and run multi-container applications with Docker
 
-[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/compose.svg?lang=zh)](https://x-cmd.com/install/compose)
+[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/compose.svg?lang=zh)](https://x-cmd.com/install/compose)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install compose
 
 ## 代码洞察
 
-合计: **58,310** 行代码（覆盖前 5 种语言、共 **724** 个文件）。
+合计: **58,775** 行代码（覆盖前 5 种语言、共 **725** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 50,085 | 11,472 | 7,522 | 354 |
+| Go | 50,550 | 11,681 | 7,562 | 355 |
 | Yaml | 7,533 | 100 | 206 | 326 |
 | Dockerfile | 369 | 219 | 165 | 42 |
 | Hcl | 154 | 30 | 27 | 1 |
@@ -26,13 +26,13 @@ x install compose
 
 ## OpenSSF Scorecard 评分
 
-总评分: **8.3 / 10**
+总评分: **8.2 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install compose
 ## 发布
 
 - **最新版本**: `v5.5.1` (2026-09-03)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 56 个
 
 ## 流行度
 
-- **Star**: 38,201 · **Fork**: 5,834 · **开放 issue**: 8,407 · **贡献者**: 289
+- **Star**: 38,207 · **Fork**: 5,833 · **开放 issue**: 8,405 · **贡献者**: 289
 
 ## 累计统计
 
-- **发布数**: 285 · **已合并 PR**: 4045 · **开放 PR**: 53 · **已关闭 issue**: 8352 · **开放 issue**: 55 · **提交数**: 6109
+- **发布数**: 285 · **已合并 PR**: 4049 · **开放 PR**: 50 · **已关闭 issue**: 8351 · **开放 issue**: 54 · **提交数**: 6122
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 55 | 34 | 11 | 6 | 84 |
-| last60d | 2026-07-24 | 3 | 134 | 43 | 32 | 10 | 236 |
-| 90d | 2026-06-24 | 5 | 187 | 49 | 48 | 10 | 305 |
-| last180d | 2026-03-26 | 9 | 265 | 52 | 86 | 25 | 422 |
-| 360d | 2025-09-27 | 20 | 457 | 53 | 236 | 32 | 672 |
-| last720d | 2024-10-02 | 50 | 909 | 53 | 696 | 42 | 1246 |
+| 30d | 2026-08-24 | 1 | 57 | 32 | 11 | 6 | 94 |
+| last60d | 2026-07-25 | 3 | 138 | 41 | 32 | 10 | 249 |
+| 90d | 2026-06-25 | 5 | 189 | 46 | 48 | 10 | 318 |
+| last180d | 2026-03-27 | 9 | 268 | 49 | 85 | 25 | 435 |
+| 360d | 2025-09-28 | 20 | 461 | 50 | 237 | 31 | 685 |
+| last720d | 2024-10-03 | 50 | 913 | 50 | 697 | 41 | 1252 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:38:55Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:43:00Z._

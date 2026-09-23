@@ -4,7 +4,7 @@
 
 Define and run multi-container applications with Docker
 
-[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://repo.x-cmd.io/compose.svg)](https://x-cmd.com/install/compose)
+[![x-cmd/install — compose Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/compose.svg)](https://x-cmd.com/install/compose)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install compose
 
 ## Code insight
 
-Total: **58,310** lines of code across **724** files in the top 5 languages.
+Total: **58,775** lines of code across **725** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 50,085 | 11,472 | 7,522 | 354 |
+| Go | 50,550 | 11,681 | 7,562 | 355 |
 | Yaml | 7,533 | 100 | 206 | 326 |
 | Dockerfile | 369 | 219 | 165 | 42 |
 | Hcl | 154 | 30 | 27 | 1 |
@@ -26,13 +26,13 @@ Total: **58,310** lines of code across **724** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **8.3 / 10**
+Overall score: **8.2 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.5.1` (2026-09-03)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 38,201 · **Forks**: 5,834 · **Open issues**: 8,407 · **Contributors**: 289
+- **Stars**: 38,207 · **Forks**: 5,833 · **Open issues**: 8,405 · **Contributors**: 289
 
 ## Totals (cumulative)
 
-- **Releases**: 285 · **Merged PRs**: 4045 · **Open PRs**: 53 · **Closed issues**: 8352 · **Open issues**: 55 · **Commits**: 6109
+- **Releases**: 285 · **Merged PRs**: 4049 · **Open PRs**: 50 · **Closed issues**: 8351 · **Open issues**: 54 · **Commits**: 6122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 55 | 34 | 11 | 6 | 84 |
-| last60d | 2026-07-24 | 3 | 134 | 43 | 32 | 10 | 236 |
-| 90d | 2026-06-24 | 5 | 187 | 49 | 48 | 10 | 305 |
-| last180d | 2026-03-26 | 9 | 265 | 52 | 86 | 25 | 422 |
-| 360d | 2025-09-27 | 20 | 457 | 53 | 236 | 32 | 672 |
-| last720d | 2024-10-02 | 50 | 909 | 53 | 696 | 42 | 1246 |
+| 30d | 2026-08-24 | 1 | 57 | 32 | 11 | 6 | 94 |
+| last60d | 2026-07-25 | 3 | 138 | 41 | 32 | 10 | 249 |
+| 90d | 2026-06-25 | 5 | 189 | 46 | 48 | 10 | 318 |
+| last180d | 2026-03-27 | 9 | 268 | 49 | 85 | 25 | 435 |
+| 360d | 2025-09-28 | 20 | 461 | 50 | 237 | 31 | 685 |
+| last720d | 2024-10-03 | 50 | 913 | 50 | 697 | 41 | 1252 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:38:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:42:56Z._
