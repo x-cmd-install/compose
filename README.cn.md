@@ -14,11 +14,11 @@ x install compose
 
 ## 代码洞察
 
-合计: **64,106** 行代码（覆盖前 5 种语言、共 **740** 个文件）。
+合计: **64,133** 行代码（覆盖前 5 种语言、共 **740** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 55,902 | 13,595 | 8,317 | 363 |
+| Go | 55,929 | 13,598 | 8,319 | 363 |
 | Yaml | 7,510 | 100 | 205 | 332 |
 | Dockerfile | 371 | 219 | 165 | 43 |
 | Hcl | 154 | 30 | 27 | 1 |
@@ -31,8 +31,8 @@ x install compose
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install compose
 
 ## 流行度
 
-- **Star**: 38,288 · **Fork**: 5,859 · **开放 issue**: 8,414 · **贡献者**: 290
+- **Star**: 38,296 · **Fork**: 5,859 · **开放 issue**: 8,416 · **贡献者**: 290
 
 ## 累计统计
 
-- **发布数**: 286 · **已合并 PR**: 4080 · **开放 PR**: 45 · **已关闭 issue**: 8359 · **开放 issue**: 55 · **提交数**: 6203
+- **发布数**: 286 · **已合并 PR**: 4081 · **开放 PR**: 56 · **已关闭 issue**: 8359 · **开放 issue**: 57 · **提交数**: 6204
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 46 | 19 | 11 | 8 | 124 |
-| last60d | 2026-08-09 | 3 | 143 | 37 | 27 | 13 | 291 |
-| 90d | 2026-07-10 | 4 | 186 | 41 | 42 | 14 | 364 |
-| last180d | 2026-04-11 | 9 | 283 | 45 | 80 | 23 | 498 |
-| 360d | 2025-10-13 | 20 | 471 | 45 | 237 | 32 | 746 |
-| last720d | 2024-10-18 | 51 | 928 | 45 | 687 | 42 | 1319 |
+| 30d | 2026-09-09 | 1 | 43 | 30 | 10 | 9 | 125 |
+| last60d | 2026-08-10 | 3 | 143 | 48 | 26 | 15 | 292 |
+| 90d | 2026-07-11 | 4 | 187 | 52 | 42 | 16 | 365 |
+| last180d | 2026-04-12 | 9 | 284 | 56 | 80 | 25 | 499 |
+| 360d | 2025-10-14 | 20 | 470 | 56 | 235 | 34 | 747 |
+| last720d | 2024-10-19 | 51 | 929 | 56 | 687 | 44 | 1320 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261008.yml` · 2026-10-08T07:29:16Z._
+_数据快照: `data/card/261009.yml` · 2026-10-09T07:30:33Z._
