@@ -14,12 +14,12 @@ x install compose
 
 ## Code insight
 
-Total: **67,521** lines of code across **760** files in the top 5 languages.
+Total: **68,810** lines of code across **770** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 59,240 | 14,336 | 8,790 | 381 |
-| Yaml | 7,581 | 104 | 206 | 334 |
+| Go | 60,515 | 15,032 | 9,043 | 390 |
+| Yaml | 7,595 | 104 | 207 | 335 |
 | Dockerfile | 374 | 221 | 165 | 43 |
 | Hcl | 154 | 30 | 27 | 1 |
 | Makefile | 120 | 24 | 42 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 38,361 · **Forks**: 5,873 · **Open issues**: 8,420 · **Contributors**: 290
+- **Stars**: 38,367 · **Forks**: 5,874 · **Open issues**: 8,420 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 286 · **Merged PRs**: 4108 · **Open PRs**: 54 · **Closed issues**: 8370 · **Open issues**: 50 · **Commits**: 6245
+- **Releases**: 286 · **Merged PRs**: 4117 · **Open PRs**: 51 · **Closed issues**: 8370 · **Open issues**: 50 · **Commits**: 6286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 1 | 62 | 28 | 9 | 8 | 130 |
-| last60d | 2026-08-16 | 3 | 155 | 42 | 28 | 12 | 256 |
-| 90d | 2026-07-17 | 4 | 207 | 50 | 43 | 13 | 398 |
-| last180d | 2026-04-18 | 8 | 301 | 54 | 87 | 17 | 521 |
-| 360d | 2025-10-20 | 19 | 489 | 54 | 240 | 29 | 778 |
-| last720d | 2024-10-25 | 51 | 949 | 54 | 692 | 38 | 1357 |
+| 30d | 2026-09-16 | 1 | 64 | 24 | 9 | 7 | 171 |
+| last60d | 2026-08-17 | 3 | 144 | 39 | 29 | 10 | 297 |
+| 90d | 2026-07-18 | 4 | 216 | 47 | 44 | 13 | 439 |
+| last180d | 2026-04-19 | 8 | 310 | 51 | 88 | 17 | 562 |
+| 360d | 2025-10-21 | 19 | 498 | 51 | 239 | 29 | 819 |
+| last720d | 2024-10-26 | 51 | 958 | 51 | 692 | 38 | 1394 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:53:39Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:52:25Z._
