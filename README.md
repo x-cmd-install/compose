@@ -14,12 +14,12 @@ x install compose
 
 ## Code insight
 
-Total: **69,382** lines of code across **773** files in the top 5 languages.
+Total: **69,438** lines of code across **776** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 61,066 | 15,257 | 9,090 | 391 |
-| Yaml | 7,616 | 108 | 207 | 337 |
+| Go | 61,117 | 15,307 | 9,096 | 393 |
+| Yaml | 7,621 | 109 | 207 | 338 |
 | Dockerfile | 374 | 221 | 165 | 43 |
 | Hcl | 154 | 30 | 27 | 1 |
 | Makefile | 120 | 24 | 42 | 1 |
@@ -42,89 +42,89 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v5.6.0` (2026-10-02)
-- **Last commit**: 2026-10-20
+- **Latest**: `v5.6.1` (2026-10-21)
+- **Last commit**: 2026-10-21
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 38,416 · **Forks**: 5,875 · **Open issues**: 8,425 · **Contributors**: 290
+- **Stars**: 38,427 · **Forks**: 5,878 · **Open issues**: 8,427 · **Contributors**: 290
 
 ## Totals (cumulative)
 
-- **Releases**: 286 · **Merged PRs**: 4126 · **Open PRs**: 47 · **Closed issues**: 8374 · **Open issues**: 51 · **Commits**: 6310
+- **Releases**: 287 · **Merged PRs**: 4132 · **Open PRs**: 45 · **Closed issues**: 8374 · **Open issues**: 53 · **Commits**: 6318
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 65 | 22 | 10 | 9 | 152 |
-| last60d | 2026-08-22 | 2 | 136 | 36 | 24 | 12 | 292 |
-| 90d | 2026-07-23 | 4 | 217 | 43 | 46 | 15 | 441 |
-| last180d | 2026-04-24 | 8 | 317 | 47 | 90 | 19 | 576 |
-| 360d | 2025-10-26 | 18 | 498 | 47 | 238 | 31 | 817 |
-| last720d | 2024-10-31 | 49 | 959 | 47 | 683 | 40 | 1405 |
+| 30d | 2026-09-22 | 2 | 68 | 20 | 10 | 11 | 160 |
+| last60d | 2026-08-23 | 3 | 141 | 33 | 24 | 14 | 300 |
+| 90d | 2026-07-24 | 5 | 220 | 41 | 46 | 17 | 449 |
+| last180d | 2026-04-25 | 9 | 323 | 45 | 90 | 21 | 584 |
+| 360d | 2025-10-27 | 19 | 502 | 45 | 238 | 33 | 825 |
+| last720d | 2024-11-01 | 50 | 964 | 45 | 683 | 42 | 1413 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/docker/compose/releases/download/v5.6.0/checksums.txt) | 4.5 KiB | `other` |
-| [docker-compose-darwin-aarch64](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-aarch64) | 29.4 MiB | `native/darwin/arm64` |
-| [docker-compose-darwin-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-aarch64.provenance.json) | 59.3 KiB | `native/darwin/arm64` |
-| [docker-compose-darwin-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-aarch64.sbom.json) | 223.7 KiB | `native/darwin/arm64` |
-| [docker-compose-darwin-aarch64.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-aarch64.sha256) | 96 B | `native/darwin/arm64` |
-| [docker-compose-darwin-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-aarch64.sigstore.json) | 89.4 KiB | `native/darwin/arm64` |
-| [docker-compose-darwin-x86_64](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-x86_64) | 31.5 MiB | `native/darwin/x64` |
-| [docker-compose-darwin-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-x86_64.provenance.json) | 59.3 KiB | `native/darwin/x64` |
-| [docker-compose-darwin-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-x86_64.sbom.json) | 223.7 KiB | `native/darwin/x64` |
-| [docker-compose-darwin-x86_64.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-x86_64.sha256) | 95 B | `native/darwin/x64` |
-| [docker-compose-darwin-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-darwin-x86_64.sigstore.json) | 89.3 KiB | `native/darwin/x64` |
-| [docker-compose-linux-aarch64](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-aarch64) | 29.1 MiB | `native/linux/arm64` |
-| [docker-compose-linux-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-aarch64.provenance.json) | 59.3 KiB | `native/linux/arm64` |
-| [docker-compose-linux-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-aarch64.sbom.json) | 223.7 KiB | `native/linux/arm64` |
-| [docker-compose-linux-aarch64.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-aarch64.sha256) | 95 B | `native/linux/arm64` |
-| [docker-compose-linux-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-aarch64.sigstore.json) | 89.4 KiB | `native/linux/arm64` |
-| [docker-compose-linux-armv6](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv6) | 29.1 MiB | `native/linux/arm` |
-| [docker-compose-linux-armv6.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv6.provenance.json) | 59.3 KiB | `native/linux/arm` |
-| [docker-compose-linux-armv6.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv6.sbom.json) | 223.7 KiB | `native/linux/arm` |
-| [docker-compose-linux-armv6.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv6.sha256) | 93 B | `native/linux/arm` |
-| [docker-compose-linux-armv6.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv6.sigstore.json) | 89.4 KiB | `native/linux/arm` |
-| [docker-compose-linux-armv7](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv7) | 29.1 MiB | `native/linux/arm` |
-| [docker-compose-linux-armv7.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv7.provenance.json) | 59.3 KiB | `native/linux/arm` |
-| [docker-compose-linux-armv7.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv7.sbom.json) | 223.7 KiB | `native/linux/arm` |
-| [docker-compose-linux-armv7.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv7.sha256) | 93 B | `native/linux/arm` |
-| [docker-compose-linux-armv7.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-armv7.sigstore.json) | 89.4 KiB | `native/linux/arm` |
-| [docker-compose-linux-ppc64le](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-ppc64le) | 30.8 MiB | `other` |
-| [docker-compose-linux-ppc64le.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-ppc64le.provenance.json) | 59.3 KiB | `other` |
-| [docker-compose-linux-ppc64le.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-ppc64le.sbom.json) | 223.7 KiB | `other` |
-| [docker-compose-linux-ppc64le.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-ppc64le.sha256) | 95 B | `other` |
-| [docker-compose-linux-ppc64le.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-ppc64le.sigstore.json) | 89.5 KiB | `other` |
-| [docker-compose-linux-riscv64](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-riscv64) | 28.5 MiB | `native/linux/riscv64` |
-| [docker-compose-linux-riscv64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-riscv64.provenance.json) | 59.3 KiB | `native/linux/riscv64` |
-| [docker-compose-linux-riscv64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-riscv64.sbom.json) | 223.7 KiB | `native/linux/riscv64` |
-| [docker-compose-linux-riscv64.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-riscv64.sha256) | 95 B | `native/linux/riscv64` |
-| [docker-compose-linux-riscv64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-riscv64.sigstore.json) | 89.3 KiB | `native/linux/riscv64` |
-| [docker-compose-linux-s390x](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-s390x) | 31.9 MiB | `other` |
-| [docker-compose-linux-s390x.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-s390x.provenance.json) | 59.3 KiB | `other` |
-| [docker-compose-linux-s390x.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-s390x.sbom.json) | 223.7 KiB | `other` |
-| [docker-compose-linux-s390x.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-s390x.sha256) | 93 B | `other` |
-| [docker-compose-linux-s390x.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-s390x.sigstore.json) | 89.5 KiB | `other` |
-| [docker-compose-linux-x86_64](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-x86_64) | 31.2 MiB | `native/linux/x64` |
-| [docker-compose-linux-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-x86_64.provenance.json) | 59.3 KiB | `native/linux/x64` |
-| [docker-compose-linux-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-x86_64.sbom.json) | 223.7 KiB | `native/linux/x64` |
-| [docker-compose-linux-x86_64.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-x86_64.sha256) | 94 B | `native/linux/x64` |
-| [docker-compose-linux-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-linux-x86_64.sigstore.json) | 89.4 KiB | `native/linux/x64` |
-| [docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-aarch64.exe) | 29.4 MiB | `native/win/arm64` |
-| [docker-compose-windows-aarch64.exe.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-aarch64.exe.sha256) | 101 B | `native/win/arm64` |
-| [docker-compose-windows-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-aarch64.provenance.json) | 59.3 KiB | `native/win/arm64` |
-| [docker-compose-windows-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-aarch64.sbom.json) | 231.4 KiB | `native/win/arm64` |
-| [docker-compose-windows-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-aarch64.sigstore.json) | 89.5 KiB | `native/win/arm64` |
-| [docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-x86_64.exe) | 31.8 MiB | `native/win/x64` |
-| [docker-compose-windows-x86_64.exe.sha256](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-x86_64.exe.sha256) | 100 B | `native/win/x64` |
-| [docker-compose-windows-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-x86_64.provenance.json) | 59.3 KiB | `native/win/x64` |
-| [docker-compose-windows-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-x86_64.sbom.json) | 231.4 KiB | `native/win/x64` |
-| [docker-compose-windows-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.0/docker-compose-windows-x86_64.sigstore.json) | 89.4 KiB | `native/win/x64` |
+| [checksums.txt](https://github.com/docker/compose/releases/download/v5.6.1/checksums.txt) | 4.5 KiB | `other` |
+| [docker-compose-darwin-aarch64](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-aarch64) | 29.4 MiB | `native/darwin/arm64` |
+| [docker-compose-darwin-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-aarch64.provenance.json) | 59.2 KiB | `native/darwin/arm64` |
+| [docker-compose-darwin-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-aarch64.sbom.json) | 223.7 KiB | `native/darwin/arm64` |
+| [docker-compose-darwin-aarch64.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-aarch64.sha256) | 96 B | `native/darwin/arm64` |
+| [docker-compose-darwin-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-aarch64.sigstore.json) | 88.9 KiB | `native/darwin/arm64` |
+| [docker-compose-darwin-x86_64](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-x86_64) | 31.5 MiB | `native/darwin/x64` |
+| [docker-compose-darwin-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-x86_64.provenance.json) | 59.2 KiB | `native/darwin/x64` |
+| [docker-compose-darwin-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-x86_64.sbom.json) | 223.7 KiB | `native/darwin/x64` |
+| [docker-compose-darwin-x86_64.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-x86_64.sha256) | 95 B | `native/darwin/x64` |
+| [docker-compose-darwin-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-darwin-x86_64.sigstore.json) | 89.0 KiB | `native/darwin/x64` |
+| [docker-compose-linux-aarch64](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-aarch64) | 29.2 MiB | `native/linux/arm64` |
+| [docker-compose-linux-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-aarch64.provenance.json) | 59.2 KiB | `native/linux/arm64` |
+| [docker-compose-linux-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-aarch64.sbom.json) | 223.7 KiB | `native/linux/arm64` |
+| [docker-compose-linux-aarch64.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-aarch64.sha256) | 95 B | `native/linux/arm64` |
+| [docker-compose-linux-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-aarch64.sigstore.json) | 88.9 KiB | `native/linux/arm64` |
+| [docker-compose-linux-armv6](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv6) | 29.1 MiB | `native/linux/arm` |
+| [docker-compose-linux-armv6.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv6.provenance.json) | 59.2 KiB | `native/linux/arm` |
+| [docker-compose-linux-armv6.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv6.sbom.json) | 223.7 KiB | `native/linux/arm` |
+| [docker-compose-linux-armv6.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv6.sha256) | 93 B | `native/linux/arm` |
+| [docker-compose-linux-armv6.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv6.sigstore.json) | 89.0 KiB | `native/linux/arm` |
+| [docker-compose-linux-armv7](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv7) | 29.1 MiB | `native/linux/arm` |
+| [docker-compose-linux-armv7.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv7.provenance.json) | 59.2 KiB | `native/linux/arm` |
+| [docker-compose-linux-armv7.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv7.sbom.json) | 223.7 KiB | `native/linux/arm` |
+| [docker-compose-linux-armv7.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv7.sha256) | 93 B | `native/linux/arm` |
+| [docker-compose-linux-armv7.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-armv7.sigstore.json) | 88.8 KiB | `native/linux/arm` |
+| [docker-compose-linux-ppc64le](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-ppc64le) | 30.8 MiB | `other` |
+| [docker-compose-linux-ppc64le.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-ppc64le.provenance.json) | 59.2 KiB | `other` |
+| [docker-compose-linux-ppc64le.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-ppc64le.sbom.json) | 223.7 KiB | `other` |
+| [docker-compose-linux-ppc64le.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-ppc64le.sha256) | 95 B | `other` |
+| [docker-compose-linux-ppc64le.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-ppc64le.sigstore.json) | 88.9 KiB | `other` |
+| [docker-compose-linux-riscv64](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-riscv64) | 28.5 MiB | `native/linux/riscv64` |
+| [docker-compose-linux-riscv64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-riscv64.provenance.json) | 59.2 KiB | `native/linux/riscv64` |
+| [docker-compose-linux-riscv64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-riscv64.sbom.json) | 223.7 KiB | `native/linux/riscv64` |
+| [docker-compose-linux-riscv64.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-riscv64.sha256) | 95 B | `native/linux/riscv64` |
+| [docker-compose-linux-riscv64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-riscv64.sigstore.json) | 88.8 KiB | `native/linux/riscv64` |
+| [docker-compose-linux-s390x](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-s390x) | 32.0 MiB | `other` |
+| [docker-compose-linux-s390x.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-s390x.provenance.json) | 59.2 KiB | `other` |
+| [docker-compose-linux-s390x.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-s390x.sbom.json) | 223.7 KiB | `other` |
+| [docker-compose-linux-s390x.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-s390x.sha256) | 93 B | `other` |
+| [docker-compose-linux-s390x.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-s390x.sigstore.json) | 88.9 KiB | `other` |
+| [docker-compose-linux-x86_64](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-x86_64) | 31.2 MiB | `native/linux/x64` |
+| [docker-compose-linux-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-x86_64.provenance.json) | 59.2 KiB | `native/linux/x64` |
+| [docker-compose-linux-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-x86_64.sbom.json) | 223.7 KiB | `native/linux/x64` |
+| [docker-compose-linux-x86_64.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-x86_64.sha256) | 94 B | `native/linux/x64` |
+| [docker-compose-linux-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-linux-x86_64.sigstore.json) | 88.9 KiB | `native/linux/x64` |
+| [docker-compose-windows-aarch64.exe](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-aarch64.exe) | 29.4 MiB | `native/win/arm64` |
+| [docker-compose-windows-aarch64.exe.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-aarch64.exe.sha256) | 101 B | `native/win/arm64` |
+| [docker-compose-windows-aarch64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-aarch64.provenance.json) | 59.2 KiB | `native/win/arm64` |
+| [docker-compose-windows-aarch64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-aarch64.sbom.json) | 231.4 KiB | `native/win/arm64` |
+| [docker-compose-windows-aarch64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-aarch64.sigstore.json) | 88.8 KiB | `native/win/arm64` |
+| [docker-compose-windows-x86_64.exe](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-x86_64.exe) | 31.8 MiB | `native/win/x64` |
+| [docker-compose-windows-x86_64.exe.sha256](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-x86_64.exe.sha256) | 100 B | `native/win/x64` |
+| [docker-compose-windows-x86_64.provenance.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-x86_64.provenance.json) | 59.2 KiB | `native/win/x64` |
+| [docker-compose-windows-x86_64.sbom.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-x86_64.sbom.json) | 231.4 KiB | `native/win/x64` |
+| [docker-compose-windows-x86_64.sigstore.json](https://github.com/docker/compose/releases/download/v5.6.1/docker-compose-windows-x86_64.sigstore.json) | 88.7 KiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:59:08Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:57:09Z._
