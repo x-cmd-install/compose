@@ -32,7 +32,7 @@ x install compose
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install compose
 ## 发布
 
 - **最新版本**: `v5.7.0` (2026-11-02)
-- **最近提交**: 2026-11-09
+- **最近提交**: 2026-11-10
 - **Release 含资产**: 56 个
 
 ## 流行度
 
-- **Star**: 38,674 · **Fork**: 5,902 · **开放 issue**: 8,453 · **贡献者**: 294
+- **Star**: 38,714 · **Fork**: 5,916 · **开放 issue**: 8,454 · **贡献者**: 294
 
 ## 累计统计
 
-- **发布数**: 288 · **已合并 PR**: 4178 · **开放 PR**: 59 · **已关闭 issue**: 8389 · **开放 issue**: 64 · **提交数**: 6438
+- **发布数**: 288 · **已合并 PR**: 4181 · **开放 PR**: 62 · **已关闭 issue**: 8389 · **开放 issue**: 65 · **提交数**: 6441
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 71 | 37 | 15 | 21 | 125 |
-| last60d | 2026-09-11 | 3 | 135 | 47 | 30 | 24 | 345 |
-| 90d | 2026-08-12 | 5 | 232 | 57 | 48 | 27 | 503 |
-| last180d | 2026-05-14 | 10 | 358 | 59 | 96 | 31 | 687 |
-| 360d | 2025-11-15 | 17 | 515 | 59 | 234 | 43 | 902 |
-| last720d | 2024-11-20 | 49 | 990 | 59 | 675 | 52 | 1509 |
+| 30d | 2026-10-12 | 2 | 71 | 40 | 15 | 21 | 128 |
+| last60d | 2026-09-12 | 3 | 138 | 49 | 30 | 25 | 348 |
+| 90d | 2026-08-13 | 5 | 232 | 59 | 48 | 28 | 506 |
+| last180d | 2026-05-15 | 10 | 360 | 62 | 96 | 32 | 690 |
+| 360d | 2025-11-16 | 17 | 515 | 62 | 234 | 44 | 905 |
+| last720d | 2024-11-21 | 49 | 993 | 62 | 673 | 53 | 1510 |
 
 ## Release 资产
 
@@ -135,4 +135,4 @@ compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:55:51Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:50:05Z._

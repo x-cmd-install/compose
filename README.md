@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.7.0` (2026-11-02)
-- **Last commit**: 2026-11-09
+- **Last commit**: 2026-11-10
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 38,674 · **Forks**: 5,902 · **Open issues**: 8,453 · **Contributors**: 294
+- **Stars**: 38,714 · **Forks**: 5,916 · **Open issues**: 8,454 · **Contributors**: 294
 
 ## Totals (cumulative)
 
-- **Releases**: 288 · **Merged PRs**: 4178 · **Open PRs**: 59 · **Closed issues**: 8389 · **Open issues**: 64 · **Commits**: 6438
+- **Releases**: 288 · **Merged PRs**: 4181 · **Open PRs**: 62 · **Closed issues**: 8389 · **Open issues**: 65 · **Commits**: 6441
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 71 | 37 | 15 | 21 | 125 |
-| last60d | 2026-09-11 | 3 | 135 | 47 | 30 | 24 | 345 |
-| 90d | 2026-08-12 | 5 | 232 | 57 | 48 | 27 | 503 |
-| last180d | 2026-05-14 | 10 | 358 | 59 | 96 | 31 | 687 |
-| 360d | 2025-11-15 | 17 | 515 | 59 | 234 | 43 | 902 |
-| last720d | 2024-11-20 | 49 | 990 | 59 | 675 | 52 | 1509 |
+| 30d | 2026-10-12 | 2 | 71 | 40 | 15 | 21 | 128 |
+| last60d | 2026-09-12 | 3 | 138 | 49 | 30 | 25 | 348 |
+| 90d | 2026-08-13 | 5 | 232 | 59 | 48 | 28 | 506 |
+| last180d | 2026-05-15 | 10 | 360 | 62 | 96 | 32 | 690 |
+| 360d | 2025-11-16 | 17 | 515 | 62 | 234 | 44 | 905 |
+| last720d | 2024-11-21 | 49 | 993 | 62 | 673 | 53 | 1510 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:55:50Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:50:04Z._
