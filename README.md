@@ -24,16 +24,6 @@ Total: **82,779** lines of code across **879** files in the top 5 languages.
 | Hcl | 154 | 30 | 27 | 1 |
 | Makefile | 120 | 24 | 42 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **8.2 / 10**
-
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Fuzzing** (0/10) — project is not fuzzed
-
 ## Source
 
 - **Upstream**: <https://github.com/docker/compose>
@@ -48,22 +38,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 38,997 · **Forks**: 6,043 · **Open issues**: 8,463 · **Contributors**: 297
+- **Stars**: 39,068 · **Forks**: 6,056 · **Open issues**: 8,464 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 4220 · **Open PRs**: 47 · **Closed issues**: 8399 · **Open issues**: 64 · **Commits**: 6503
+- **Releases**: 291 · **Merged PRs**: 4220 · **Open PRs**: 51 · **Closed issues**: 8399 · **Open issues**: 65 · **Commits**: 6503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 5 | 79 | 29 | 20 | 18 | 159 |
-| last60d | 2026-09-20 | 6 | 160 | 36 | 35 | 24 | 351 |
-| 90d | 2026-08-21 | 7 | 230 | 43 | 47 | 27 | 491 |
-| last180d | 2026-05-23 | 12 | 392 | 47 | 102 | 30 | 746 |
-| 360d | 2025-11-24 | 20 | 553 | 47 | 237 | 44 | 964 |
-| last720d | 2024-11-29 | 51 | 1020 | 47 | 665 | 53 | 1558 |
+| 30d | 2026-10-21 | 5 | 74 | 33 | 19 | 18 | 159 |
+| last60d | 2026-09-21 | 6 | 156 | 40 | 33 | 25 | 351 |
+| 90d | 2026-08-22 | 7 | 230 | 47 | 47 | 28 | 491 |
+| last180d | 2026-05-24 | 12 | 392 | 50 | 102 | 31 | 746 |
+| 360d | 2025-11-25 | 20 | 552 | 51 | 235 | 45 | 964 |
+| last720d | 2024-11-30 | 51 | 1020 | 51 | 665 | 54 | 1558 |
 
 ## Release assets
 
@@ -135,4 +125,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:09:08Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T10:33:59Z._
