@@ -38,22 +38,22 @@ Total: **82,779** lines of code across **879** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,068 · **Forks**: 6,056 · **Open issues**: 8,464 · **Contributors**: 297
+- **Stars**: 39,067 · **Forks**: 6,054 · **Open issues**: 8,464 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 4220 · **Open PRs**: 51 · **Closed issues**: 8399 · **Open issues**: 65 · **Commits**: 6503
+- **Releases**: 291 · **Merged PRs**: 4220 · **Open PRs**: 52 · **Closed issues**: 8399 · **Open issues**: 65 · **Commits**: 6503
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 5 | 74 | 33 | 19 | 18 | 159 |
-| last60d | 2026-09-21 | 6 | 156 | 40 | 33 | 25 | 351 |
-| 90d | 2026-08-22 | 7 | 230 | 47 | 47 | 28 | 491 |
-| last180d | 2026-05-24 | 12 | 392 | 50 | 102 | 31 | 746 |
-| 360d | 2025-11-25 | 20 | 552 | 51 | 235 | 45 | 964 |
-| last720d | 2024-11-30 | 51 | 1020 | 51 | 665 | 54 | 1558 |
+| 30d | 2026-10-22 | 4 | 72 | 33 | 18 | 18 | 0 |
+| last60d | 2026-09-22 | 6 | 153 | 41 | 33 | 25 | 0 |
+| 90d | 2026-08-23 | 7 | 229 | 48 | 47 | 28 | 0 |
+| last180d | 2026-05-25 | 12 | 392 | 51 | 101 | 31 | 0 |
+| 360d | 2025-11-26 | 20 | 551 | 52 | 234 | 45 | 0 |
+| last720d | 2024-12-01 | 51 | 1020 | 52 | 665 | 54 | 1558 |
 
 ## Release assets
 
@@ -125,4 +125,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:33:59Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:16:06Z._
