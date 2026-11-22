@@ -24,6 +24,16 @@ Total: **82,779** lines of code across **879** files in the top 5 languages.
 | Hcl | 154 | 30 | 27 | 1 |
 | Makefile | 120 | 24 | 42 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **8.2 / 10**
+
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+
 ## Source
 
 - **Upstream**: <https://github.com/docker/compose>
@@ -38,7 +48,7 @@ Total: **82,779** lines of code across **879** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 39,067 · **Forks**: 6,054 · **Open issues**: 8,464 · **Contributors**: 297
+- **Stars**: 39,070 · **Forks**: 6,052 · **Open issues**: 8,464 · **Contributors**: 297
 
 ## Totals (cumulative)
 
@@ -48,12 +58,12 @@ Total: **82,779** lines of code across **879** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 4 | 72 | 33 | 18 | 18 | 0 |
-| last60d | 2026-09-22 | 6 | 153 | 41 | 33 | 25 | 0 |
-| 90d | 2026-08-23 | 7 | 229 | 48 | 47 | 28 | 0 |
-| last180d | 2026-05-25 | 12 | 392 | 51 | 101 | 31 | 0 |
-| 360d | 2025-11-26 | 20 | 551 | 52 | 234 | 45 | 0 |
-| last720d | 2024-12-01 | 51 | 1020 | 52 | 665 | 54 | 1558 |
+| 30d | 2026-10-23 | 4 | 71 | 32 | 17 | 18 | 159 |
+| last60d | 2026-09-23 | 6 | 150 | 41 | 32 | 25 | 351 |
+| 90d | 2026-08-24 | 7 | 227 | 48 | 47 | 28 | 491 |
+| last180d | 2026-05-26 | 12 | 392 | 51 | 101 | 31 | 746 |
+| 360d | 2025-11-27 | 20 | 549 | 52 | 234 | 45 | 964 |
+| last720d | 2024-12-02 | 51 | 1019 | 52 | 665 | 54 | 1558 |
 
 ## Release assets
 
@@ -125,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:16:06Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:34:19Z._

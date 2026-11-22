@@ -24,6 +24,16 @@ x install compose
 | Hcl | 154 | 30 | 27 | 1 |
 | Makefile | 120 | 24 | 42 | 1 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **8.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/docker/compose>
@@ -38,7 +48,7 @@ x install compose
 
 ## 流行度
 
-- **Star**: 39,067 · **Fork**: 6,054 · **开放 issue**: 8,464 · **贡献者**: 297
+- **Star**: 39,070 · **Fork**: 6,052 · **开放 issue**: 8,464 · **贡献者**: 297
 
 ## 累计统计
 
@@ -48,12 +58,12 @@ x install compose
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 4 | 72 | 33 | 18 | 18 | 0 |
-| last60d | 2026-09-22 | 6 | 153 | 41 | 33 | 25 | 0 |
-| 90d | 2026-08-23 | 7 | 229 | 48 | 47 | 28 | 0 |
-| last180d | 2026-05-25 | 12 | 392 | 51 | 101 | 31 | 0 |
-| 360d | 2025-11-26 | 20 | 551 | 52 | 234 | 45 | 0 |
-| last720d | 2024-12-01 | 51 | 1020 | 52 | 665 | 54 | 1558 |
+| 30d | 2026-10-23 | 4 | 71 | 32 | 17 | 18 | 159 |
+| last60d | 2026-09-23 | 6 | 150 | 41 | 32 | 25 | 351 |
+| 90d | 2026-08-24 | 7 | 227 | 48 | 47 | 28 | 491 |
+| last180d | 2026-05-26 | 12 | 392 | 51 | 101 | 31 | 746 |
+| 360d | 2025-11-27 | 20 | 549 | 52 | 234 | 45 | 964 |
+| last720d | 2024-12-02 | 51 | 1019 | 52 | 665 | 54 | 1558 |
 
 ## Release 资产
 
@@ -125,4 +135,4 @@ compose 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:16:07Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:34:19Z._
