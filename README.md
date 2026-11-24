@@ -14,11 +14,11 @@ x install compose
 
 ## Code insight
 
-Total: **82,779** lines of code across **879** files in the top 5 languages.
+Total: **82,780** lines of code across **879** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 73,973 | 18,904 | 10,994 | 453 |
+| Go | 73,974 | 18,904 | 10,994 | 453 |
 | Yaml | 8,097 | 140 | 216 | 380 |
 | Dockerfile | 383 | 227 | 166 | 44 |
 | Hcl | 154 | 30 | 27 | 1 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (-1/10) — internal error: error during branchesHandler.setup: internal error: githubv4.Query: Resource not accessible by integrati…
+- **Vulnerabilities** (4/10) — 6 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.8.0` (2026-11-17)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-23
 - **Assets in release**: 56
 
 ## Popularity
 
-- **Stars**: 39,135 · **Forks**: 6,053 · **Open issues**: 8,464 · **Contributors**: 297
+- **Stars**: 39,015 · **Forks**: 6,050 · **Open issues**: 8,462 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 291 · **Merged PRs**: 4220 · **Open PRs**: 54 · **Closed issues**: 8399 · **Open issues**: 65 · **Commits**: 6503
+- **Releases**: 291 · **Merged PRs**: 4221 · **Open PRs**: 54 · **Closed issues**: 8398 · **Open issues**: 64 · **Commits**: 6504
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 70 | 34 | 16 | 17 | 0 |
-| last60d | 2026-09-24 | 6 | 150 | 43 | 32 | 24 | 0 |
-| 90d | 2026-08-25 | 7 | 225 | 50 | 46 | 28 | 0 |
-| last180d | 2026-05-27 | 12 | 392 | 53 | 101 | 31 | 0 |
-| 360d | 2025-11-28 | 20 | 545 | 54 | 234 | 45 | 0 |
-| last720d | 2024-12-03 | 51 | 1018 | 54 | 663 | 54 | 1558 |
+| 30d | 2026-10-25 | 4 | 71 | 34 | 14 | 16 | 70 |
+| last60d | 2026-09-25 | 6 | 148 | 41 | 30 | 23 | 329 |
+| 90d | 2026-08-26 | 7 | 226 | 50 | 45 | 27 | 463 |
+| last180d | 2026-05-28 | 12 | 393 | 53 | 100 | 29 | 737 |
+| 360d | 2025-11-29 | 20 | 545 | 54 | 233 | 44 | 949 |
+| last720d | 2024-12-04 | 51 | 1017 | 54 | 662 | 53 | 1558 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for compose lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:28:28Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:33:48Z._
